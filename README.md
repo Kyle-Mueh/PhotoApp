@@ -39,3 +39,8 @@ Example:
 [101] incidunt alias vel enim
 
 [102] eaque iste corporis tempora vero distinctio consequuntur nisi nesciunt
+
+
+
+
+Application will be run from main in PhotoAlbum.java class
